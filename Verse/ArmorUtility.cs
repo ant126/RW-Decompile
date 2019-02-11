@@ -7,7 +7,7 @@ namespace Verse
 {
 	public static class ArmorUtility
 	{
-		public const float MaxArmorRating = 2f;
+		public const float MaxArmorRating = 3f;
 
 		public const float DeflectThresholdFactor = 0.5f;
 
